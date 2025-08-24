@@ -1,4 +1,8 @@
-## Hi there 👋
+## active-projects
+
+- lazywars.com
+- alpha.hyperlazy.com
+- cabals.gg
 
 <!--
 **adidogCEO/adidogCEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
