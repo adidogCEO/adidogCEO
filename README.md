@@ -4,3 +4,4 @@
 - [alpha.hyperlazy.com](https://alpha.hyperlazy.com)
 - [dlmm.lol](https://dlmm.lol)
 - [cabals.gg](https://cabals.gg)
+- [ccm.gg](https://ccm.gg)
