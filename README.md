@@ -1,7 +1,5 @@
 ### current-active-projects
 
+- [hyperlazy.com](https://www.hyperlazy.com)
 - [lazywars.com](https://lazywars.com)
-- [alpha.hyperlazy.com](https://alpha.hyperlazy.com)
-- [dlmm.lol](https://dlmm.lol)
-- [cabals.gg](https://cabals.gg)
 - [ccm.gg](https://ccm.gg)
